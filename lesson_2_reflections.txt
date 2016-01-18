@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 - Git will start tracking that directory
 - Needed to start version control in order to store metadata in .git directory
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+- The staging area freezez the state of the files at a certain point to prepare and test it for the release.
+
